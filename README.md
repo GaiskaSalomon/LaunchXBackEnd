@@ -5,4 +5,6 @@ Directorio que con el contenido de la misión BackEnd de Launch X.
 <br>
 <br>
 
-Por `@GaiskaSalomon`
+<p align = "right"> 
+Por `@GaiskaSalomon` 
+</p>
